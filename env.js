@@ -1,10 +1,10 @@
 // API地址
-window.routerBase = 'http://127.0.0.1:8000/'
+window.routerBase = 'https://vowa.top/'
 window.settings = {
   // 站点名称
-  title: 'Xboard',
+  title: 'Vowa',
   // 站点描述
-  description: 'Xboard',
+  description: 'Vowa',
   assets_path: '/assets',
   // 主题色
   theme: {
