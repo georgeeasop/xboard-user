@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'https://vowa.top/'
+window.routerBase = 'http://51.79.230.160:7001/'
 window.settings = {
   // 站点名称
   title: 'Vowa',
